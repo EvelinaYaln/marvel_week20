@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 20px;
+}
+
+.body {
+    background-color: wheat;
+}
+
+.hero {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    margin: 20px;
+    text-align: justify;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.content {
+    font-size: 1rem;
+}
+
+.img {
+    display: block;
+    margin: 10px auto;
+}
+
+#heroesContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.rat {
+    margin: 10px 0;
+}
+
+#bat {
+    margin-left: 68px;
+}
+
+#sp {
+    margin-left: 15px;
+}
+
+#wom {
+    margin-left: 3px;
+}
